@@ -1,2 +1,100 @@
 Diccionario comandos Git:
 
+---> Ayuda dentro de la terminal de Git 
+
+git help + comando espcífico
+Ejemplo: git help add
+         git help commit
+
+---> Configurar usuario
+git config user.name "nombreUsuario"
+Ejemplo: git config user.name "anamazari"
+
+---> Eliminar configuración usuario
+git config --global --unset user.name "nombreUsuario"
+Ejemplo: git config --global --unset user.name "anamazari"
+
+---> Configurar email
+git config user.email "email@email.com"
+Ejemplo: git config user.email "anamazari1992@gmail.com"
+
+---> Eliminar configuración email
+git config --global --unset user.email "email@email.com"
+Ejemplo: git config --global --unset user.email "anamazari1992@gmail.com"
+
+---> Ver configuración de git
+git config --list
+
+---> Crear nuevo repo
+git init
+
+---> Verificar el estado de los archivos dentro del repositorio
+git status
+
+---> Descargar cambios del repositorio remoto para actualizar mi rama actual
+git pull
+git pull origin nombreRama
+
+---> Descargar cambios del repositorio remoto pero no aplicarlos en la rama actual
+git fetch
+
+---> Agregar archivos al repositorio
+git add nombreArchivo.extensión
+Ejemplo: git add app.js
+
+---> Agregar todos los archivos al repositorio
+git add .
+
+---> Eliminar archivo
+git rm nombreArchivo.extensión
+Ejemplo: git rm app.js
+
+---> Eliminar directorio y todo su contenido
+git rm -r directorio
+Ejemplo: git rm -r lib
+
+---> Agregar un comentario a un archivo para poder subirlo al repositorio remoto
+git commit -m 'mi primer commit'
+Ejemplo: git commit -m 'Creación archivo app.js'
+
+---> Cambiar mensaje del commit
+git commit --amend -m 'nuevo mensaje'
+
+---> Subir los cambios de mi local al repositorio remoto
+git push
+git push origin nombreRama
+
+---> Ver historial actividad dentro del repositorio
+git log
+git log --<ruta archivo> Muestra historial de un archivo específico
+git log --author Muestra el historial de un autor espcífico
+
+---> Clonar un repositorio remoto
+git clone URL
+
+---> Crear rama
+git branch nombreRama
+Ejemplo: git branch anaZapata
+
+---> Crear rama y quedar parado dentro de esa rama
+git checkout -b nombreRama
+Ejemplo: git checkout -b anaZapata
+
+---> Listar ramas
+git branch
+
+---> Ver lista de ramas con los último commits
+git branch -v
+
+---> Cambiar de rama
+git checkout nombreRama
+Ejemplo: git checkout anaZapata
+
+---> Combinar o juntar ramas
+git merge nombreRama (de la que deseo subir los cambios a la rama actual)
+
+
+
+
+
+
