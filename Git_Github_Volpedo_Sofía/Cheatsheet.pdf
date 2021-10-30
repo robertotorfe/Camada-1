@@ -1,0 +1,32 @@
+Crear repositorio local:
+git init: repositorio vacío local. 
+git config user.name “mi -usuario”: Agregar nombre de usuario
+git config user.name : comprobar que este bien
+git config user.email “miCorreo@gmail.com” : Agregar mail
+git config user.email : comprobar que este bien
+Si agrego --global después de config de esa manera indico que cualquier repositorio que existe en la pc tiene la firma y mi mail.
+
+Agregando archivos al repositorio:
+git add: para agregar archivos.
+git status: dice el estado de archivos.
+git add . : para agregar todos los archivos al repositorio para que tengan todos seguimiento.
+git commit -m “mensaje” : comitea los cambios hechos. En el mensaje lo mejor es describir de forma resumida el trabajo hecho hasta ahí.
+git log : historial de los cambios de nuestros proyectos.
+rm -R .git: remover todo lo que está en el repositorio
+git checkout: para volver a atras en un cambio
+
+Conectando al repositorio remoto:
+git remote add origin + https y la pagina git. Para verificarlo git remote -v (fetch) (push)
+git push -u origin main
+git clone: te permite crear una copia exacta en la computadora de todos los archivos existentes en un repositorio remoto. Se ejecuta una sola vez. 
+git pull origin main: Para mantener sincronizados y actualizar los archivos, solo baja los archivos modificados o nuevos.
+
+Crear y trabajar con ramas:
+git branch: enumera todas las ramas.
+git branch <branch>: crea una nueva rama.
+git branch -d <branch>: elimina la rama.
+git branch -D <branch>: fuerza la eliminación incluso cuando hay cambios sin fusionar.
+git checkout nombre_rama: para moverse de una rama a otra. Solo se puede si no tenemos cambios. 
+git push origin <branch>: para subir los cambios despues del add y commit. 
+git pull origin <branch>
+
