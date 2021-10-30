@@ -1,0 +1,36 @@
+CREAR
+* mkdir:    crea carpeta en el directorio local
+* touch:    crea un archivo en el directorio local con extensión asignable (.txt, .jpeg, .html, etc.)
+* git init: crea un nuevo repositorio en el directorio local
+* git branch: crea una nueva rama en el repositorio
+* git clone: copia el repositorio de nuestra elección al directorio de nuestra elección
+
+INFO
+* pwd: muesta el directorio local en el que nos encontramos
+* ls:   muestra una lista de los archivos y carpetas en el directorio local
+* ls -a: muestra una lista de todos los archivos y carpetas (incluidos los ocultos) en el directorio local
+* ls -r: muestra una lista de archivos del directorio local incluyendo subcarpetas
+* git status: muestra el estado de los archivos de nuestro repositorio, si falta agregarlos o estan listos para commitear
+* git branch: muestra una lista de las diferentes ramas existentes en el repositorio
+* git log: muestra una lista de los diferentes commits que se han realizado en la rama del repositorio
+* git remote: muestra el repositorio de donde estamos descargando nuestros archivos
+
+NAVEGACIÓN
+* cd nombre_de_carpeta_dentro_del_directorio: cambia el directorio
+* cd ..: cambia a un nivel arriba del directorio actual
+* mv: mueve o renombra un archivo/carpeta 
+* git checkout nombre/id_del_commit/branch: cambia al commit/branch deseado
+
+CONFIRMACIÓN
+* git add .: agrega todos los archivos del directorio para prepararlos antes de commit
+* git commit -m"": confirma los cambios agregados y agrega un mensaje de información para la actualización
+* git push origin main: manda los cambios confirmados al repositorio main (o a la rama elegida en vez de main)
+* git pull origin main: descarga los cambios del repositorio main (o de la rama elegida)
+* git config user.name "": asigna un nombre de usuario al repositorio (agregando --global después de config queda registrado para todos los repositorios de ese PC)
+* git config user.email "": asigna un correo electronico al repositorio (agregando --global después de config, queda registrado para todos los repositorios de ese PC)
+
+BORRAR
+* rm nombre_de_archivo: borra el archivo
+* rm -r nombre_del_directorio: borra el directorio y todo su contenido
+* clear: limpia el contenido de la terminal
+* git rm -r nombre_del_directorio: borra el directorio y los archivos que contiene
