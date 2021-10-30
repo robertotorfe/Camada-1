@@ -35,6 +35,6 @@ Comandos Git/Github:
 
 17. git log --oneline // Nos muestra los commits creados con el ID acortado
 
-18. git merch 'nombreDeLaRama' // Trae los commits de otra rama a la que estamos trabajando
+18. git merge 'nombreDeLaRama' // Trae los commits de otra rama a la que estamos trabajando
 
 
