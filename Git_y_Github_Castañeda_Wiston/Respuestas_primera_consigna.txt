@@ -1,0 +1,5 @@
+1. Git fue inventado por Linus Torvalds, con el objetivo de llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+2. Github pertenece actualmente a Microsoft, esto se debe a que la gran compañía observo que es un software de gran universalidad, logrando la creación de diferentes versiones de un mismo proyecto, lográndose integrar posteriormente a la rama principal de dicho proyecto.
+
+3. Si existen otras formas, tales como interfaces gráficas o de escritorio, que absorben las funcionalidades de una terminal, pero su método de interacción es gráfico, y amigable con el usuario.
