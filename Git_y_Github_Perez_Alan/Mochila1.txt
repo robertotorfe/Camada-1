@@ -1,0 +1,15 @@
+Quién inventó el sistema de control de versión Git y por qué?
+Git fue diseñado por Linus Torvalds
+
+Git fue creado en el 2005, porque la relación entre la comunidad que desarrollaba el kernel de Linux y 
+la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de 
+ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux 
+(y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia 
+herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper.
+
+Así nace git como software de control de versiones, 
+pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de 
+versiones de aplicaciones cuando estas tienen un gran número de archivos de 
+código fuente.ls
+
+Sí a través de la aplicación de Github para escritorio https://desktop.github.com/
