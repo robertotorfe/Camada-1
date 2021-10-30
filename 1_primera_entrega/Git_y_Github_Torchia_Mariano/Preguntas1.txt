@@ -5,7 +5,7 @@ Fue diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y 
 
 b. ¿A quién pertenece actualmente Github y por qué?
 
-Actualmente pertenece a Microsoft. Fue adquirida en el año 2018.
+Actualmente pertenece a Microsoft, fue adquirida en el año 2018.
 
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?

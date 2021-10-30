@@ -1,0 +1,40 @@
+Comandos Git/Github:
+
+1. git init //crear repositorio local
+
+2. git config user.name "nombreUsuario"// agregar usuario
+
+3. git config user.email "emailUsuario" // agregar email
+
+4. git add . // agrega todos los archivos
+
+5. git commit -m "nombreDelCommit" // Commitea los cambios realizados
+
+6. git push origin 'nombreDeLaRama' // Sube los archivos al repositorio remoto
+
+7. git status // Realiza seguimiento de los estados de los archivos
+
+8. git pull // Descarga los cambios realizados en el repositorio remoto
+- Aclaración: Si queremos descargar solamente de una rama utilizamos git pull origin/main por ejemplo.
+
+9. git push // Envia los commits realizados al repositorio remoto
+
+10. git clone 'linkDelRepo' // Clonamos el repositorio remoto a nuestro equipo
+
+11. git branch // Nos dice las ramas que tenemos y en cual estamos trabajandno
+
+12. git branch 'nombreDeLaRama' // Crea una nueva rama
+
+13. git checkout 'nombreDeLaRama' // Nos traslada a otra rama
+
+14. git checkout -b 'nombreDeLaRama' // Crea y nos traslada a otra rama
+
+15. git checkout 'idDelCommit' // Nos traslada a un commit creado anteriormente
+ 
+16. git log // Nos muestra los commits creados hasta el momento 
+
+17. git log --oneline // Nos muestra los commits creados con el ID acortado
+
+18. git merch 'nombreDeLaRama' // Trae los commits de otra rama a la que estamos trabajando
+
+
