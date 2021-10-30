@@ -1,0 +1,5 @@
+a. originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+
+b. Microsoft hizo la compra de Github por alrededor de 7500 millones de dolares porque ha ser el sistema mas completo para trabajar de forma colaborativa
+
+c. Si, directamente con el reposotio de github.
