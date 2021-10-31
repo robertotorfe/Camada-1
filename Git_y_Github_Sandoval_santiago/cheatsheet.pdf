@@ -1,0 +1,29 @@
+ # Cheatsheet Git desde la Terminal
+
+1.** Inicializar Git de acuerdo a las Clases vistas**
+   * git init ÂÂ= crea un repositorio de manera local.
+   * git clone + url Â= para clonarlo desde la we.b
+   * git remote add origin Â= para descargalo directamente de un repositorio compartido.
+
+Estos comandos son los indicados al momento de inciar un repositorio, sea local o remoto; sin embargo, a continuaciÃ³n mencionaremos los pasos posteriores a la creaciÃ³n del mismo para trabajar de una mejor manera[^2]
+
+2. **En es punto es necesario estar logeados o identificarnos dentro de la terminal para ello es importante:**
+     * git config user.name " usuario " = para agregar nuestro usuario de manera local.
+     * git config user.email " correo" = agregamos nuestro email.
+     * git config --global user.name = Configuramos un usuario de manera globar sin importar el tipo de repositorio.
+     * git Config --global user.email= configuarmos nuestro email de manera global.
+     * git branch = nos muestra la rama en la cual estamos trabajando.
+     * git branch -a = muestra todas las ramas existentes.
+     * git checkout = nos permite cambiar de rama.
+     * git branch -b= nos permite crear una rama y cambiar directamente a esta.
+
+3. **Para chear archivos y agregarlos **
+      * touch --- = este comando lo utilizamos desde la terminal para crear archivos de cualquier tipo de extensiÃ³n.
+      * git status= nos muesta el estado del archivo que creamos, en este caso se encuentra en color rojo porque no ha sido debidamente agregado.
+      * git add= agregamos el archivo al repositorio.
+      * git commit -m = le hacemos un comentario a los archivos agregados.
+      * git log = nos muestra los commits que hemos realizado en nuestro repositorio.
+
+4. **para subir los archivos al repositorio remoto.**
+      * git push origin (rama actual)Â= una vez realizados los pasos anteriores enviamos los archivos commiteados.
+      * git pull = actualiza el repositorio que tenemos descargando todo desde la nube de git.
