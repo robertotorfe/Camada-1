@@ -1,0 +1,26 @@
+Comandos Git
+Para crear un repositorio local:
+    - git init ---> crea el repositorio local
+    - git config user.name "NombreUsuario" ---> agrega nuestra identidad
+    - git config user.emal "emailUsuario" ---> agrega nuestro e-mail
+    - git config --global user.name "NombreUsuario" ---> agrega nuestra identidad de forma global
+    - git config --global user.email "emailUsuario" ---> agrega nuestro email de forma global
+    - git remote add origin https://... ---> apunta al repositorio remoto
+    - git remote -v ---> verificar repositorio remoto conectado
+Para subir cambios:
+    - git add . ---> agrega todos los archivos
+    - git add archivo.extension ---> agrega el archivo indicado
+    - git commit -m "mensaje" ---> commitea los cambios hechos, identificandolos a traves de "mensaje"
+    - git push origin master ---> envia los cambios al repositorio remoto, en la rama principal
+Otros comandos:
+    - git status ---> realiza un seguimiento de los estados de los archivos
+    - git log ---> muestra el historial de commits
+    - git pull origin master ---> descarga los cambios que existen en el repositorio remoto
+    - git clone "linkDelRepositorio" ---> clonamos le repositorio remoto en la maquina
+    - git rm archivo ---> remueve un archivo
+    - git rm -r directorio ---> remueve un directorio
+Breanches:
+    - git branch nuevaBranch_nombre ---> crea una nueva rama (branch)
+    - git checkout nuevaBranch_nombre ---> cambia a una rama existente
+    - git checkout -b nuevaBranch_nombre ---> crea una nueva rama y apunta a ella
+    - git merge nuevaBranch_nombre ---> resuelve la unión (merge) entre las branches
