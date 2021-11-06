@@ -1,0 +1,174 @@
+Gama baja - Intel
+
+
+Procesador
+	Core i3 7100
+	Placa madre
+	Board Asus H110m-R
+	Memoria principal
+	Memoria DIMM Kingston DDR2 PC2-1066 (1600 MHz) CL7, 1 GB (2 x 512MB).
+	Memoria secundaria
+	Disco Ssd M.2 2280 Gigabyte 256 Gb Pcie X4 Nvme
+	
+
+Gama baja - AMD
+
+
+Procesador
+	Ryzen 3 2200g
+
+	Placa madre
+	GIGABYTE A320M-S2H
+
+	Memoria ram
+	Memoria RAM 4GB 1 Adata AD4S2400J4G17-S
+
+	Memoria secundaria
+	SSD: MARKVISION 240GB SATA
+	
+
+
+
+Gama baja
+
+
+Procesador
+	Procesador Intel Pentium G4500 de Sexta Generación
+	Placa madre
+	T. Madre Gigabyte H310M H 2.0, Chipset Intel H310
+
+
+	Memoria principal
+	Memoria ADATA UDIMM DDR4 PC4-21300 (2666MHz), CL19, 4GB.
+
+
+	Memoria secundaria
+	Disco Duro Seagate 500GB, 7200 RPM, SATA III (6.0 Gb/s). New Pull
+
+
+	
+
+Gama media - Intel
+
+
+Procesador
+	Intel core i5-11600K novena generación
+
+	Placa madre
+	Gygabyte H410M S2 V3
+
+	Memoria principal
+	Memoria RAM Fury DDR4 gamer color Negro 8GB 1 HyperX HX426C16FB3/8
+
+	Memoria secundaria
+	Disco duro interno Seagate Barracuda ST1000DM010 1TB
+
+	GPU
+	GeForce GT 1030 2GD4 LP OC
+	
+
+Gama media - AMD
+
+
+Procesador
+	AMD Ryzen™ 5 2400G
+
+	Placa madre
+	 A320M Asrock
+
+	Memoria principal
+	Memoria Corsair Vegeance Lpx 8gb 3200mhz
+
+	Memoria secundaria
+	Ssd Nvme M.2 Crucial P2 500 Gigas
+
+	GPU
+	Tarjeta de video Nvidia Gigabyte GeForce 10 Series GT 1030 GV-N1030OC-2GI OC Edition 2GB
+	
+
+
+
+
+
+
+
+
+
+Gama media
+
+
+Procesador
+	AMD Ryzen 5 5600G
+
+	Placa madre
+	Gigabyte A520M - K 
+
+	Memoria principal
+	DDR4 8GB 3000mhz HP V8 RGB
+
+	Memoria secundaria
+	CRUCIAL 500 GB NVME PCIE
+
+	GPU
+	GTX 1050 Ti 4GB
+	
+
+Gama alta - Intel
+
+
+Procesador
+	Core i7-10700
+
+	Placa Madre
+	ASUS PRIME B560-PLUS LGA 1200
+
+	Memoria principal
+	Memoria Ram Trident Z Neo 32gb 2x16gb G.skill F4-3600c18d
+
+	Memoria secundaria
+	Disco Ssd Samsung 860 Evo 1tb Sata M.2
+
+	GPU
+	Tarjeta Video Nvidia Gigabyte Windforce Geforce Rtx 3060 12g
+	
+
+
+
+
+
+Gama alta - AMD
+
+
+Procesador
+	Amd Ryzen 7 3800xt
+
+	Placa Madre
+	Board Gigabyte B450 Aorus Pro Wifi Amd Am4
+
+	Memoria principal
+	Corsair Dominator Platinum RGB 16GB (2 x 8GB)Velocidad: 3000MHz
+
+	Memoria secundaria
+	Nvidia MSI Ventus GeForce RTX 20 Series RTX 2060 GEFORCE RTX 2060 VENTUS 6G OC OC Edition 6GB
+
+	GPU
+	NVIDIA GeForce RTX 2080
+	
+
+Gama alta
+
+
+Procesador
+	AMD Ryzen 7 5800X
+
+	Placa Madre
+	Board Asus PRIME X570-P
+
+	Memoria principal
+	XPG Spectrix D41 DDR4 8GB 3200MHz (2x 8GB) RGB
+
+	Memoria secundaria
+	 Kingston 2.5" A400 480GB
+
+	GPU
+	Nvidia Evga XC Gaming GeForce RTX 30 Series RTX 3060
