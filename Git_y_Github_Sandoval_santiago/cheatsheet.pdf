@@ -1,9 +1,9 @@
  # Cheatsheet Git desde la Terminal
 
 1.** Inicializar Git de acuerdo a las Clases vistas**
-   * git init ÂÂ= crea un repositorio de manera local.
-   * git clone + url Â= para clonarlo desde la we.b
-   * git remote add origin Â= para descargalo directamente de un repositorio compartido.
+   * git init ï¿½ï¿½= crea un repositorio de manera local.
+   * git clone + url ï¿½= para clonarlo desde la we.b
+   * git remote add origin ï¿½= para descargalo directamente de un repositorio compartido.
 
 Estos comandos son los indicados al momento de inciar un repositorio, sea local o remoto; sin embargo, a continuaciÃ³n mencionaremos los pasos posteriores a la creaciÃ³n del mismo para trabajar de una mejor manera[^2]
 
@@ -25,5 +25,5 @@ Estos comandos son los indicados al momento de inciar un repositorio, sea local 
       * git log = nos muestra los commits que hemos realizado en nuestro repositorio.
 
 4. **para subir los archivos al repositorio remoto.**
-      * git push origin (rama actual)Â= una vez realizados los pasos anteriores enviamos los archivos commiteados.
+      * git push origin (rama actual)ï¿½= una vez realizados los pasos anteriores enviamos los archivos commiteados.
       * git pull = actualiza el repositorio que tenemos descargando todo desde la nube de git.
