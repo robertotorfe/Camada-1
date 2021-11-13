@@ -1,0 +1,40 @@
+1. ¿Qué es un usuario root en Linux?
+
+R// El usuario root, cuyo nombre de inicio es "root", tiene características especiales, Creado durante la instalación, el ususario root es el único usuario predeterminado que crea el programa de instalación.
+
+2. ¿Por qué ubuntu no me deja establecer la contraseña desde la instalación?
+
+R// Esto evita que personas no autorizadas alteren la configuración del sistema, también es una "Red de seguridad" para que confirmes que realmente quieres hacer cambios en la configuración.
+
+Se puede argumentar que si sabes que nadie va a usar tu computadora, de todos modos, entonces no necesitas una contraseña, pero el sistema operativo no tiene forma de saberlo. Ubuntu es conservador en ese sentido al pedirle que siempre tenga una contraseña, a difernecia de otros sistemas que pueden permitirle "Dispararse en el pie".
+
+3. ¿Cuales son los procesos tipicos de Linux?
+
+R// Basado en el top command:
+
+Systemd
+kthreadd
+ksoftirqd/0
+kworker/0:0H
+rcu_sched
+rcu_bh
+
+4. ¿Cómo identificarlos?
+
+R// Su identificación es posible utilizando el comando ps, al accionar el mismo la terminal arroja el siguiente resultado:
+PID: El identificador del proceso, que es el unico para el proceso. Esta información es util para controlar el proceso por su número de ID.
+PPID: Es el número de identificación del proceso principal, es decir es el padre del proceso PID.
+PGID: Es el número de identificación del grupo de proceso.
+TTY: El nombre del terminal en el que se ejecuta el proceso. Esta información es util para distinguir entre los diferentes procesos que tienen el mismo nombre.
+STIME: La cantidad total de tiempo del procesador utilizado por el proceso.
+COMMAND: El comando que inició el proceso.
+
+5. ¿Cómo establecer una contraseña de usuario root?
+
+R//
+
+**** sudo su  -
+**** (Escribir la clave del usuario)
+**** passwd root
+**** (Escribir nueva clave)
+
