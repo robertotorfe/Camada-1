@@ -1,0 +1,22 @@
+1- ¿Quién inventó el sistema de control de versión Git y por qué?
+  
+  -El kernel de Linux es un proyecto de software de código abierto con un alcance bastante amplio. Durante la mayor parte del mantenimiento del kernel de Linux (1991-2002), los cambios en el software se realizaban a través de parches y archivos. En el 2002, el proyecto del kernel de Linux empezó a usar un DVCS propietario llamado BitKeeper.
+  En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper. Algunos de los objetivos del nuevo sistema fueron los siguientes:
+
+    -Velocidad
+
+    -Diseño sencillo
+
+    -Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+
+    -Completamente distribuido
+
+    -Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (velocidad y tamaño de los datos)
+    Desde su nacimiento en el 2005, Git ha evolucionado y madurado para ser fácil de usar y conservar sus características iniciales. Es tremendamente rápido, muy eficiente con grandes proyectos y tiene un increíble sistema de ramificación (branching) para desarrollo no lineal
+    
+2- ¿A quién pertenece actualmente Github y por qué?
+  
+  -
+3- ¿Hay otra forma que no sea la terminal para trabajar con Github?
+  
+  -GitHub Desktop es una aplicación que te habilita para interactuar con GitHub utilizando una GUI en vez de la línea de comandos o de un buscador web. GitHub Desktop fomenta que tú y tu equipo colaboren utilizando las mejoras prácticas con Git y GitHub. Puedes utilizar GitHub Desktop para completar la mayoría de los comandos de Git desde tu computadora de escritorio con confirmaciones visuales para los cambios. Puedes subir, extraer y clonar repositorios remotos con GitHub Desktop y utilizar herramientas colaborativas tales como atribuir confirmaciones y crear solicitudes de extracción.
