@@ -1,0 +1,56 @@
+[33mcommit 11e33e665ae5e415c0e10d0668f73f47c9ce9ac7[m[33m ([m[1;36mHEAD -> [m[1;32mPatiño-Angie[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/Patiño_Angie[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mcheckout[m[33m, [m[1;32mPatiño_Angie[m[33m)[m
+Author: anabellagallo <75223950+anabellagallo@users.noreply.github.com>
+Date:   Sun Nov 7 22:59:51 2021 -0300
+
+    Add files via upload
+
+[33mcommit cbf888188ccf8ab426673c7d1d8b6fcf7ebbb14e[m
+Author: hualli <robertotorfe@gmail.com>
+Date:   Fri Nov 5 12:34:35 2021 -0300
+
+    revert to 8a4930a
+
+[33mcommit c355536e52f79256e0e5ae968d8a3b92996fc42d[m
+Author: Jonathan Vargas Ríos <89598945+jonathanvr09@users.noreply.github.com>
+Date:   Wed Nov 3 02:26:00 2021 -0500
+
+    Revert "Respuestas a consigna de clase 6"
+
+[33mcommit ea629453bef7f6c93c60a0cebe1c333c690153b5[m
+Merge: 2e4a80e 8c79158
+Author: Jonathan Vargas Ríos <89598945+jonathanvr09@users.noreply.github.com>
+Date:   Wed Nov 3 02:20:39 2021 -0500
+
+    Merge pull request #1 from robertotorfe/Ospina_Daniela
+    
+    Respuestas a consigna de clase 6
+
+[33mcommit 2e4a80ed61562838381aaae07e7200606a7254d2[m
+Author: jonathan_vargas <jo.vargasrios@hotmail.com>
+Date:   Tue Nov 2 14:16:23 2021 -0500
+
+    first commit
+
+[33mcommit 1b9d991d59b74bda84f7e09df75525f24efd93b3[m
+Author: jonathan_vargas <jo.vargasrios@hotmail.com>
+Date:   Tue Nov 2 13:33:40 2021 -0500
+
+    Version 2
+
+[33mcommit 8c79158e1d4cc62cdbed4b0765585a60afdb33f5[m
+Author: Daniela Ospina <danyospina02@gmail.com>
+Date:   Fri Oct 29 20:04:27 2021 -0500
+
+    Respuestas a cosngina de clase 6
+
+[33mcommit 8a4930a1021e0584e34ba8c19f66e1a98bcfdb48[m[33m ([m[1;31morigin/Ruiz_Rubio_Maria_Alejandra[m[33m, [m[1;31morigin/Jimenez_Karen[m[33m)[m
+Author: hualli <robertotorfe@gmail.com>
+Date:   Fri Oct 29 19:48:09 2021 -0300
+
+    creo carpetas de entregas obligatorias
+
+[33mcommit 4b3208f58035447863d934e610134584aaafcfd0[m
+Author: hualli <robertotorfe@gmail.com>
+Date:   Fri Oct 29 19:44:42 2021 -0300
+
+    first commit
