@@ -1,0 +1,56 @@
+﻿Ejercitación:
+En las mesas de trabajo realizamos los siguientes pasos:
+Procederemos a instalar Git a través de la consola de comandos.
+
+-Lo primero que debemos hacer es verificar que tengamos conexión a
+Internet, para esto utilizaremos el comando ping:
+ping -c 2 www.digitalhouse.com.ar
+
+-Si existiera algún tipo de problema, revisar que el tipo de conexión de la
+MV esté en modo nat.
+
+-Si no ingresamos con el usuario root, podemos cambiarnos al mismo
+utilizando el comando su root, a continuación, debemos introducir la
+contraseña establecida. Si la máquina virtual es nueva deberian agregar
+la clave root con el comando sudo passwd root.
+
+En caso de tener que agregarlo recomendamos que la contraseña sea
+root (usuario: root contraseña: root)
+
+-Ahora procedemos a instalar Git a través del comando: apt-get install git
+
+-Puede que en algún momento nos pida una confirmación para seguir la
+instalación. Basta con poner la letra S o Y seguido de Enter para
+continuar.
+
+-Luego probamos que Git haya sido instalado a través del comando git
+--version
+
+En formato TXT, resolver el siguiente cuestionario:
+Con toda la mesa de trabajo debatan sobre las siguiente
+preguntas y contesten en conjunto:
+
+-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+  Porque el código solo puede ser interpretado en otra máquina con CPU y sistema operativo similar. Además, cada sistema operativo tiene sus permisos. 
+
+-¿Qué tipo de máquina virtual es virtualBox?.
+  Es una aplicación para crear y producir máquinas virtuales. Es de sistema porque emula a una computadora y es capaz de alojar a varias máquinas virtuales.
+
+-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+  No, porque la estabilidad de las máquinas virtuales depende de mi equipo físico. Además, puedo hacer una copia de seguridad de mi equipo, la cual se guarda en el servidor. Puedo tener varias máquinas conectadas al mismo servidor.
+
+-Subir este archivo a la mochila del viajero.
+
+-Sacar una captura de pantalla de los commits hechos y el
+cuestionario resuelto y subirlos a la mochila 3
+
+Opcional:
+-Clonar la mochila del viajero personal dentro de la Máquina virtual y
+subir el archivo de la ejercitación desde la misma.
+
+-Para crear el TXT debemos usar el comando touch y luego modificarlo
+a través de GNU Nano.
+
+-EN CASO DE NECESITAR TOKEN PARA HACER PUSH, SOLO PUEDE SER COLOCADO COPIANDO LETRA POR LETRA DEL MISMO
