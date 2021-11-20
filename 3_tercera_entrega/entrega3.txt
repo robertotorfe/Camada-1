@@ -1,0 +1,9 @@
+1.¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+R/ Ya que existen lenguajes interpretados y compilados. Debido a esto todos los lenguajes interpretados, como su nombre lo dice el intérprete es quien se encarga de la traducción del programa, mientras que en los compilados es este quien se encarga de traducirlo al lenguaje de maquina
+
+2.¿Qué tipo de máquina virtual es virtualBox?. 
+R/ Máquina virtual de sistema (System Virtual Machine) permiten a la máquina física subyacente multiplicarse entre varias máquinas virtuales, cada una ejecutando su propio sistema operativo. A la capa de software que permite la virtualización se la llama monitor de máquina virtual o hypervisor. Un monitor de máquina virtual puede ejecutarse o bien directamente sobre el hardware o bien sobre un sistema operativo ("host operating system").
+
+3.Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+R/ Si una se rompe las otras no se afectan ya que cada una son independiente de la otra.
+
