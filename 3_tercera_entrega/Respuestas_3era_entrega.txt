@@ -1,0 +1,16 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no? 
+
+R// Ya que existen lenguajes interpretados y compilados. Debido a esto, todos los lenguajes interpretados, como su nombre lo dice, el intérprete es quien se encarga de 
+la traducción del programa. Mientras que en los compilados, es este quien se encarga de traducirlo al lenguaje de maquina.
+
+2. ¿Qué tipo de máquina virtual es virtualBox?
+
+R// Máquina virtual de sistema (System Virtual Machine). VirtualBox es una maquina virtual de proceso, o maquina de aplicacion, se ejecuta como un proceso normal 
+dentro de un sistema operativo y soporta un solo proceso. La máquina se inicia automáticamente cuando se lanza el proceso que se desea ejecutar y se detiene para 
+cuando éste finaliza. Su objetivo es el de proporcionar un entorno de ejecución independiente de la plataforma de hardware y del sistema operativo, que oculte los 
+detalles de la plataforma subyacente y permita que un programa se ejecute siempre de la misma forma sobre cualquier plataforma.
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+R// Si una se rompe las otras no se afectan, ya que cada una es independiente de la otra.
+
