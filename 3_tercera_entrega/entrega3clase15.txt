@@ -1,0 +1,27 @@
+
+Ejercitacion Clase 15 - Entrega 3
+	Lenguajes de programacion y M	Maquina virtual
+Facundo Ledezma
+
+	1- Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+Un lenguaje de programacion puede ser utilizado paraq controlar el comportamiento de una maquina. 
+Naturalmente, unprograma que se escribe en un lenguaje de alto nivel tambien tiene que traducirse a un codigo que pueda utilizar la maquina (comilado).
+Por otro lado, en vez de traducir el programa fuente ey grabar en forma permanente el docigo objeto que se produce durante la corrida de compilacion para utilizarlo en una corrida de produccion futura, el programador solo carga el programa fuente en la computadora junto con los datos que se van a procesar. A continuacion, un programa interprete, almacenado en el sistema operativo del disco, o incluido de manera permanente dentro de la maquina, convierte cada proposicion del programa fuente en lenguaje de maquina conforme vaya siendo necesario durante el proceso de los datos. No se graba el codigo objeto para utilizarlo posteriormente.
+El problema radica en la Falta de portabilidad:
+Existe un lenguaje ensamblador para cada maquina; por ello, evidentemente no es una seleccion apropiada de lenguaje cuando deseamos codificar en una maquina y luego llevar los programas a otros sistemas operativos o modelos de computadoras. Si bien esto es un problema general a todos los lenguajes, es mucho mas notorio en ensamblador: yo puedo reutilizar un 90% o mas del dodigo que desarrollo en <<C>>, en una PC, al llevarlo a una rs/6000 con UNIX, y lo mismo si despues lo llevo a una Macintosh, siempre y cuando este bien hecho y siga los estandares de <<C>>, y los principios de la programacion estructurada. En cambio, si escribimos el programa en Ensamblador de la PC, por bien que lo desarrollemos y muchos estandres que sigamos, tendremos practicamente que reescribir el 100% del codigo al llevrlo a UNIX, y otra vez lo mismo al llevarlo a Mac.
+
+
+	2 - .Que tipo de maquina virtual es VirtualBox?
+Es una maquina Virtual de Sistemas.
+Por medio de esta aplicacion es posible instalar sistemas operativos adicionales, conocidos como <<sistemas invitados>>, dentro de otro sistema operativo <<anfitrion>>, cada uno con su propio ambiente virtual.
+
+	3- .Si tengo mas de una maquina virtual istalada, y una se rompe, esto afecta a las demas? Por que?
+No.
+Uno de los beneficios de la virtualidzacion es el Backups y recuperacion ante desastres ya que se pueden realizar copias de seguridad del servidor virtual y en las maquinas virtuals se pueden migrar entre si. El proceso de recuperacion ante desastres es muy sencillo, con solamente tener un "resguardo" de los archivos de configuracion del hardware de la maquina "guest" y la copia de los discos virtuales, es suficiente para rapidamente hacer un recupero del ambiente en su totalidad.
+
+
+
+
+
+
+ 
