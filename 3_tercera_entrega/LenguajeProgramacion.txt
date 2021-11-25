@@ -1,0 +1,23 @@
+
+CAROLINA LÓPEZ CORREA
+Introducción a la Informática
+Certified Tech Developer
+Digital House
+2021
+
+
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+Los lenguajes de programación son específicos y deben ser ejecutados en una máquina con un sistema operativos similar al cual fue creado. Cuando se llega a un programa ejecutable, éste se diseña para una arquitectura y sistema operativo concreto. 
+
+2. ¿Que tipo de máquina virtual es VirtualBox?
+
+VirtualBox, es un sotfware de virtualización también denominado hipervisor tipo 2 (se ejecuta dentro de un sistema operativo de una máquina host física). Se utiliza para genera virtualizaciones de sistemas operativos dentro de un ordenador físico existente, generándose lo que se conoce como máquinas virtuales. 
+
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe. ¿Esto afecta a las demás?¿Por qué?
+
+Las máquinas virtuales de procesos son ejecutadas en un mismo servidor, de tal manera, que si una de ellas falla no afectará al funcionamiento del resto.  Este tipo de máquinas ejecutan programas informáticos en un entorno independiente de la plataforma. Enmascaran la información del hardware o el sistema operativo subyacente.  Esto permite que el sistema operativo se ejecute de la misma manera en cualquier plataforma. 
+
+
+ 
