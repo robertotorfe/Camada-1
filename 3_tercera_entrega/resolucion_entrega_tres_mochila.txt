@@ -1,0 +1,33 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos 
+y en otros no? 
+
+r// Porque cada lenguajes de programación es creado conforme a necesidades y diseñados para 
+SO y dispositivos específicos. Dado que cada dispositivo tiene arquitectura y SO 
+diferentes, los lengiajes de programación deben ser traducidos, es decir, compilados a su 
+código máquina para poder ser ejecutados. 
+
+Como alternativa a este problema, existe también los lenguajes interpretados y las máquinas 
+virtuales.
+
+Máquinas virtuales: las máquinas virtuales compilan código y son capaces de hacer 
+traducciones para que los programas puedan ser ejecutados en distintos SO y arquitecturas. 
+Esto quiere decir que no es necesario volver a compilar el código.
+
+Intérpretes: son programas que analizan y traducen un programa en código máquina instrucción 
+por instrucción, de esta manera lo hace en cualquier sistema, para que cada dispositivo 
+pueda "entender" y ejecutar el programa, sin necesidad de ser compilado.
+
+
+2. ¿Qué tipo de máquina virtual es VirtualBox?
+
+r// Es una máquina virtual de sistemas, que permite emular computadoras de arquitecturas x86 
+y AMD64/Intel64.
+
+
+3. Si tengo más de una máquina virtual instalada y una se rompe, ¿esto afecta a las 
+demás?¿por qué?
+
+r// No afecta a las demás porque el hipervisor se encarga de crear una capas que separan 
+cada una de las máquinas virtuales. Esto significa que el funcionamiento de una VM no 
+afectará el de las demás
+
