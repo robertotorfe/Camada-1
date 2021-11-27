@@ -1,0 +1,17 @@
+TERCERA ENTREGA MARIA ALEJANDRA RUIZ RUBIO
+
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto:
+ 
+●¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+R/ Porque el código solo puede ser interpretado en otra máquina con CPU y sistema operativo similar. Además, cada sistema operativo tiene sus permisos. 
+
+●¿Qué tipo de máquina virtual es virtualBox? 
+
+R/ Es una aplicación para crear y producir máquinas virtuales. Es de sistema porque emula a una computadora y es capaz de alojar a varias máquinas virtuales.
+
+●Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+R/ No, porque la estabilidad de las máquinas virtuales depende de mi equipo físico. Además, puedo hacer una copia de seguridad de mi equipo, la cual se guarda en el servidor. Puedo tener varias máquinas conectadas al mismo servidor.
+
+
