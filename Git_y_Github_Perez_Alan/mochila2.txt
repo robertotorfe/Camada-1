@@ -1,0 +1,64 @@
+Gama Baja INTEL
+Procesador--------------- Core i3 7100
+Placa madre--------------
+Memoria principal--------
+Memoria secundaria-------
+
+Gama Baja AMD
+Procesador--------------- Ryzen 3 2200g
+Placa madre--------------
+Memoria ram--------------
+Memoria secundaria-------
+
+Gama Baja
+Procesador---------------
+Placa madre--------------
+Memoria principal--------
+Memoria secundaria-------
+
+--------------////////////////////---------------------////////////////////----------------------/////////////////------------------
+
+Gama Media INTEL
+Procesador.............
+Placa madre............
+Memoria principal......
+Memoria secundaria.....
+GPU.................... GeForce GT 1030 2GD4 LP OC
+
+Gama Media AMD
+Procesador.............
+Placa madre A320M ..... Asrock
+Memoria principal......
+Memoria secundaria.....
+GPU....................
+
+Gama Media
+Procesador............
+Placa madre ..........
+Memoria principal.....
+Memoria secundaria....
+GPU...................
+
+--------------////////////////////---------------------////////////////////----------------------/////////////////------------------
+
+
+GAMA ALTA INTEL
+Procesador ------------ Core i7-10700
+Placa Madre------------
+Memoria principal------
+Memoria secundaria-----
+GPU--------------------
+
+GAMA ALTA AMD
+Procesador ------------ Amd Ryzen 7 3800xt
+Placa Madre------------
+Memoria principal------
+Memoria secundaria-----
+GPU--------------------
+
+GAMA ALTA
+Procesador ------------ 
+Placa Madre------------
+Memoria principal------
+Memoria secundaria-----
+GPU--------------------
