@@ -1,0 +1,31 @@
+Introducción a la Informática
+
+
+Ejercitación 
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+
+Esto es debido a que el lenguaje de programación se traduce a código máquina (compilación). El resultado de la compilación, será ejecutable en otra máquina con similar arquitectura de cpu y sistema operativo.
+Esto se soluciona de dos maneras, con Máquinas Virtuales (VM) e Intérpretes. 
+En el primer caso, compilamos el programa en la VM con una arquitectura y sistema operativo distinto. De esta forma, la máquina que ejecuta el programa lo va a  traducir con una VM y podrá ejecutarlo en su sistema operativo. 
+En el segundo caso, el intérprete hace un análisis línea por línea en cada sistema donde se ejecuta el código fuente, de esta manera se traduce en el momento a un código máquina que logra entender, así se vuelve independiente de la arquitectura de cpu.
+
+
+ ¿Qué tipo de máquina virtual es virtualBox?. 
+
+
+Es un software de virtualización, también denominado hipervisor de tipo 2. Se utiliza para generar virtualizaciones de sistemas operativos dentro de un ordenador físico existente, generando lo que se conoce como máquinas virtuales.
+Los hipervisores toman los recursos físicos y los dividen de manera tal que los entornos virtuales puedan usarlos.
+Los sistemas operativos se virtualizan en el kernel, es decir, en sus administradores centrales de tareas. Es una forma útil de ejecutar los entornos de Linux y Windows de manera paralela.
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+Cada máquina virtual es totalmente independiente a otra, por lo cual cada una de ellas puede ejecutar diferentes sistemas operativos y/o aplicaciones, aunque al mismo tiempo se encuentran dentro de un solo equipo físico.
+Debido a que cada máquina virtual está aislada de otras máquinas virtualizadas, en caso de ocurrir un bloqueo, problema, reinicio o cuelgue, esto no afecta a las demás máquinas virtuales.
+
+
+        Sacar una captura de pantalla de los commits hechos y el cuestionario resuelto y subirlos a la mochila
