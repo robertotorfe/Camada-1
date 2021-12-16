@@ -1,0 +1,8 @@
+¡Por qué un lenguaje de programación solo puede usarse en algunos SO y en otros no?
+Porque cada lenguaje es usado para un fin, para resolver una situación en un SO específico, es decir, un lenguaje codifica la solución que desea en el sistema operativo y conlleva las características y capacidades que desea en el SO.
+
+¡Qué tipo de MV es VirtualBox?
+Es una aplicación para crear y producir MV. Es de sistema porque emula a una computadora y es capaz de alojar varias MV. 
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¡esto afecta a las demás?, ¡por qué?
+No, porque la estabilidad de las MV dependen de la estabilidad del equipo que las soporta y la información puede ser respaldada con una copia de seguridad en el servidor. Puedo tener, de hecho, varias MV conectadas al mismo servidor. 
