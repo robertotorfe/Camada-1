@@ -1,0 +1,15 @@
+git init: repositorio vacío local.
+git config user.name “mi -usuario”: Agregar nombre de usuario
+git config user.name : comprobar que este bien
+git config user.email “miCorreo@gmail.com” : Agregar mail
+git config user.email : comprobar que este bien
+Si agrego --global después de config de esa manera indico que cualquier repositorio que existe en la pc
+tiene la firma y mi mail.
+git add: para agregar archivos.
+git status: dice el estado de archivos.
+git add . : para agregar todos los archivos al repositorio para que tengan todos seguimiento.
+git commit -m “mensaje” : comitea los cambios hechos. En el mensaje lo mejor es describir de forma
+resumida el trabajo hecho hasta ahí.
+git log : historial de los cambios de nuestros proyectos.
+rm -R .git: remover todo lo que está en el repositorio
+gir checkout: para volver a atras en un cambio
